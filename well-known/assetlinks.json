@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.nxp.smr.nfclaunch",
+    "sha256_cert_fingerprints":
+    ["FE:9F:DF:E9:DE:B0:58:D9:BD:2D:EA:D9:61:E7:62:95:EC:E7:0B:7A:6D:E5:28:99:95:92:3A:5F:AF:87:EF:89"]
+  }
+}]
